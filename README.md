@@ -15,12 +15,12 @@ Les consignes pas à pas sont sur le site du cours : <https://git.mines.prasquie
 
 ## Les commandes à documenter
 
-Premier arrivé, premier servi : la branche poussée fait foi. Une commande par fiche, un élève par commande
+Premier arrivé, premier servi : la branche poussée fait foi. `show` est pris : c'est la fiche d'exemple, [`fiches/show.md`](fiches/show.md). Une commande par fiche, un élève par commande
 pour la première fiche ; pour la seconde, prenez ce qui reste.
 
 `add -p` · `bisect` · `blame` · `branch` · `cherry-pick` · `clean` · `clone` · `commit --amend` · `diff` ·
 `fetch` · `grep` · `log` (options utiles) · `merge` · `mv` · `pull` · `push` · `rebase` · `rebase -i` ·
-`reflog` · `remote` · `reset` · `restore` · `revert` · `rm` · `shortlog` · `show` · `stash` · `status` ·
+`reflog` · `remote` · `reset` · `restore` · `revert` · `rm` · `shortlog` · `stash` · `status` ·
 `switch` · `tag` · `worktree` · `.gitignore` · `config` (alias, editor)
 
 ## Ce qui est attendu d'une fiche
